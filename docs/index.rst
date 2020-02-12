@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Bem vindo ao eMAG 3.2.1 - ISTO É UM TESTE - OUTRO TESTE
-==================================================
+=======================================================
 
 Contents:
 
